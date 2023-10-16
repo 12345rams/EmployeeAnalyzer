@@ -10,7 +10,7 @@ The Employee Analyzer is a Java program that analyzes employee work patterns fro
 
 ### Prerequisites
 
-- Java Development Kit 
+- Java Development Kit (JDK)
 
 ### Usage
 
